@@ -1,5 +1,7 @@
 combine <- function(){
   
+  ## Written by Sanjay Patel
+  ## Part of course assignment
   ## Combines the training and test data sets
   
   setwd("D:/Sanjay/Documents/R Stuff/CleaningData/UCI HAR dataset")
